@@ -1,4 +1,4 @@
-# GuideWay AI: Real-Time Object Detection & Depth-Estimation Assistive Navigation System
+# GuideWay AI: Real-Time Object Detection & Depth-Estimation Assistive Navigation System for the Visually Impaired
 
 Intellectual Property Notice: The underlying source code for this architecture is maintained within a secure, private repository to safeguard proprietary algorithms and patent-pending frameworks. This repository serves as a public architectural showcase and technical specification sheet for hiring engineering managers.
 
